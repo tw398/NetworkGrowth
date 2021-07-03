@@ -6,3 +6,5 @@
 #### fb_SEPP.R: Run KS tests based on the fitted SEPP model.
 #### fb_acf.pdf: ACF plots of transformed inter-event times. 
 ### 2. Dutch Wikipedia Talk: Raw data available at http://konect.cc/networks/wiki_talk_nl/.
+### 3. German Wikipedia Talk: Data available at http://konect.cc/networks/wiki_talk_de/.
+### 4. Dutch Wikipedia Talk: Data available at http://konect.cc/networks/sx-mathoverflow/.
