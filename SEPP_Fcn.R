@@ -92,7 +92,10 @@ sleep <- function(daily_dat, tstp, tz, start, end, hr){
   }
 }
 
-
+non_sleep_hrs <- function(tstp, tz, hr){
+  hours <- hour(anytime(tstp, tz=tz))
+  which(hours < hr[1] | hours > hr[2])
+}
 
 
 
